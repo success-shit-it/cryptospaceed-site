@@ -1,1 +1,1 @@
-console.log('CryptoSpaceED Loaded');
+console.log('CryptoSpaceED site loaded successfully!');
